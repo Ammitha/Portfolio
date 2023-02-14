@@ -6,7 +6,7 @@ mg{
 
 h1{
 
-    color: bisque;
+    color: rgb(255, 196, 230);
 
     margin: 25px;
 
@@ -18,7 +18,7 @@ h1{
 
     height: 100px;
 
-    background: #b40c0c;
+    background: #390cb4;
 
     display: flex;
 
@@ -62,7 +62,7 @@ a{
 
 a:hover{
 
-    background-color: yellow;
+    background-color: rgb(89, 0, 255);
 
 }
 
